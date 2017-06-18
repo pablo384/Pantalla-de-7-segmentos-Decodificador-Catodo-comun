@@ -8,7 +8,7 @@ Decodificador de pantalla de 7  segmentos con Catodo común en base a una entrad
 
 ![GitHub Logo](/imagenes/pantalla.png)
 
-**Tabla y posibles convinaciones**
+**Tabla y posibles combinaciones**
 
 **Nota:** Salida en 0 quiere decir segmento encendido on, Salida en 1 quiere decir segmento apagado, Salida en x quiere decir segmento indiferente.
 
