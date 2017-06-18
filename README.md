@@ -1,5 +1,5 @@
 # Pantalla de 7 segmentos Decodificador Catodo comun
-Decodificador de pantalla de 7  segmentos con Catodo común en base a una entrada de 3bit escrito en VHDL.
+Decodificador de pantalla de 7  segmentos con Catodo común en base a una entrada de 4bit escrito en VHDL.
 
 **Instrucciones**
 
