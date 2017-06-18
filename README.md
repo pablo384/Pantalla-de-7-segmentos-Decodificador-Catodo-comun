@@ -13,4 +13,4 @@ Decodificador de pantalla de 7  segmentos con Ánodo común en base a una entrad
 **Nota:** Salida en 0 quiere decir segmento encendido on, Salida en 1 quiere decir segmento apagado, Salida en x quiere decir segmento indiferente.
 
 
-![GitHub Logo](/imagenes/tabla.png)
+![GitHub Logo](/imagenes/tabla1.png)
